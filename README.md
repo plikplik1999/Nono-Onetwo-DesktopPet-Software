@@ -1,6 +1,5 @@
-# DesktopPet 桌面宠物
-
-一个运行在 Windows 桌面上的桌面宠物程序。可爱的角色会在屏幕角落陪伴你，随机播放动图和音效，并贴心地提醒你起身活动、喝水、休息。
+# Nono-Onetwo-DesktopPet-Software
+一个运行在 Windows 桌面上的桌面宠物程序。布布和一二会在屏幕角落陪伴你，关心你的日常工作状态并贴心地提醒你起身活动、喝水、休息。
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows-blue" alt="platform">
