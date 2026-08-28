@@ -72,6 +72,10 @@ DesktopPet 是一个纯本地运行的轻量桌面伴侣程序。它以一个透
    - **摸摸**：播放随机音效
    - **设置**：调整提醒与动画参数
    - **退出**：关闭程序
+   - 
+
+链接: https://pan.baidu.com/s/1-9fv5NWOh-6rMpzZ_V0icg?pwd=p2rr 提取码: p2rr
+链接：https://pan.quark.cn/s/a7483cc34409
 
 > `config.json` 会生成在 EXE 同目录下，可手动编辑（见[配置说明](#配置说明)）。
 
