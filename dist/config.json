@@ -1,0 +1,61 @@
+{
+  "switch_interval_seconds": 10.0,
+  "sedentary_enabled": true,
+  "sedentary_interval_minutes": 40.0,
+  "water_enabled": true,
+  "water_interval_minutes": 40.0,
+  "idle_reset_minutes": 10.0,
+  "bubble_duration_seconds": 6,
+  "button_timeout_seconds": 10,
+  "character": "onetwo",
+  "messages_sedentary": [
+    "主人，起来伸个懒腰吧～",
+    "坐了这么久，站起来转转嘛~",
+    "小腰要抗议啦，起来动一动！",
+    "让眼睛休息一下，看看远处吧~",
+    "起身走两步，顺带扭扭脖子？"
+  ],
+  "messages_water": [
+    "该喝水啦主人~",
+    "小一二提醒：补充水分！",
+    "来杯温水暖暖胃吧~",
+    "水水喝起来，皮肤好好~",
+    "主人记得喝水哦~"
+  ],
+  "long_work_enabled": true,
+  "long_work_minutes": 120.0,
+  "long_work_messages": [
+    "你已经忙了一阵子啦，要不要陪我站起来活动一下？",
+    "我的小腿都想伸伸啦，你也休息一会儿吧。",
+    "我们暂停一下下，好不好？五分钟就够啦。",
+    "我发现你一直在努力，我想提醒你照顾一下自己。",
+    "工作很重要，但是你也很重要呀。",
+    "我陪你休息一会儿，回来再继续。"
+  ],
+  "away_enabled": true,
+  "away_interval_minutes": 15.0,
+  "messages_away": [
+    "你刚才去哪啦？我在这里等你回来。",
+    "是不是休息去了？回来记得喝口水哦。",
+    "桌面有点安静，我陪你等一会儿。"
+  ],
+  "companion_enabled": true,
+  "companion_interval_minutes": 60.0,
+  "companion_probability": 0.7,
+  "companion_messages": [
+    "你工作的时候，我也在认真陪伴。",
+    "不用着急，我会一直陪你慢慢完成。",
+    "让我陪你放松几分钟，然后再继续出发吧。",
+    "肩膀是不是有点累啦？偷偷提醒你放松一下。",
+    "今天已经完成很多事情了，不要忘记照顾自己。",
+    "你的努力我都看到了，现在也该关心一下自己啦。"
+  ],
+  "window_switch_enabled": true,
+  "window_switch_threshold": 8,
+  "window_switch_window_minutes": 5,
+  "window_switch_cooldown_minutes": 10,
+  "switch_question": "小一二猜主人现在状态有点累，对吗？",
+  "switch_answer_yes": "慢一点也没关系，小一二陪主人整理一下思绪",
+  "switch_answer_no": "那主人继续加油，小一二陪着你就好～",
+  "switch_question_timeout_seconds": 15
+}
